@@ -12,3 +12,4 @@ Este repositório está em fase de implatnação,em breve maiores informações 
 
 changelog:
 07/09/2022 - inicio
+10/09/2022 - adicionado lista de componentes 
